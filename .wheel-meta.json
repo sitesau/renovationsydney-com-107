@@ -1,0 +1,22 @@
+{
+  "wheel_id": 608,
+  "structure": "umbrella",
+  "slug": "renovationsydney-com-107",
+  "project": "home-renovations-sydney-materials-compared-cc72fb4f4dbe8525f012",
+  "parent_t1_ref": "renovationsydney-com-153",
+  "node_role": "feeder",
+  "money_target": "renovationsydney.com.au",
+  "primary_kw": "home renovations sydney materials compared",
+  "intended_url": "http://home-renovations-sydney-materials-compared-cc72fb4f4dbe8525f012.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "10a6e927121e4614",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/home-renovations-sydney-council-and-approvals-0bf664989e6d27f79/",
+      "anchor": "Home Renovations Sydney Council and Approvals: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
